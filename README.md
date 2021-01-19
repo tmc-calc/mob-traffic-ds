@@ -4,7 +4,7 @@ Mobile network traffic simulator for anomaly and trend change detection
 
 | No. | Name | Description | Units | Reference |
 | --- | ---- | ----------- | ----- | --------- |
-| 1 | Laner'12 | Twenty-four hour daily data of mean throughput per cell  | Mean throughput per cell (bits/s) | \cite{LanerTraffic12} |
+| 1 | Laner'12 | Twenty-four hour daily data of mean throughput per cell  | Mean throughput per cell (bits/s) | [Laner'12](https://ieeexplore.ieee.org/document/6214330)  |
 | 2 | EARTH'12 | Twenty-four hour daily traffic profile -- percentage of active users over time | Traffic profile (\%) | \cite{AuerEARTHTraffic12} |
 | 3 | Feknous'14 | Daily traffic profiles captured on Orange France fixed and mobile networks in 2013, upstream and downstream directions  | Normalized traffic volume | \cite{Feknous14}|
 | 4 | Wang'15 |  Week-long daily mean traffic approximations using trigonometric series with 24, 12 and 8 hour cycles, for different areas: park, campus and central business district | Traffic volume (MB) | \cite{WangTraffic15} |
